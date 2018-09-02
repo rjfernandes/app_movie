@@ -1,0 +1,37 @@
+PODS:
+  - Alamofire (4.7.3)
+  - FontAwesome.swift (1.4.3)
+  - Kingfisher (4.8.1)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - SwiftDate (5.0.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - FontAwesome.swift
+  - Kingfisher (~> 4.0)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SwiftDate
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FontAwesome.swift
+    - Kingfisher
+    - RxCocoa
+    - RxSwift
+    - SwiftDate
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  FontAwesome.swift: 4b9ba1e1f3418a626f3ab67b230856ab6eb4860f
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  SwiftDate: f053fb89250c59af5eff777f3b832d2b9dd57403
+
+PODFILE CHECKSUM: ce789d40c876d6c9d4072d1c11a97b8dc22781ee
+
+COCOAPODS: 1.5.3
